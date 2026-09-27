@@ -15,6 +15,8 @@ anthropic.com
 # xAI / Grok
 grok.com
 x.ai
+grokusercontent.com
+grok-sandbox.com
 
 # YouTube
 youtube.com

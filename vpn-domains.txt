@@ -1,0 +1,61 @@
+# VPN domain/subnet list for AWG Manager / Keenetic
+# One domain or CIDR per line.
+# Parent domains cover their subdomains.
+
+# OpenAI / ChatGPT
+chatgpt.com
+openai.com
+oaistatic.com
+oaiusercontent.com
+
+# Anthropic / Claude
+claude.ai
+anthropic.com
+
+# YouTube
+youtube.com
+youtu.be
+youtube-nocookie.com
+googlevideo.com
+ytimg.com
+ggpht.com
+youtubei.googleapis.com
+youtube.googleapis.com
+youtubeembeddedplayer.googleapis.com
+youtubeeducation.com
+youtubekids.com
+yt.be
+withyoutube.com
+
+# Meta / Facebook / Instagram
+facebook.com
+facebook.net
+fb.com
+fbcdn.net
+fbsbx.com
+instagram.com
+cdninstagram.com
+
+# Medium
+medium.com
+
+# RuTracker
+rutracker.org
+
+# Telegram domains
+telegram.org
+t.me
+telegram.me
+telegram.dog
+telegra.ph
+
+# Telegram IPv4 networks
+91.108.56.0/22
+91.108.4.0/22
+91.108.8.0/22
+91.108.16.0/22
+91.108.12.0/22
+149.154.160.0/20
+91.105.192.0/23
+91.108.20.0/22
+185.76.151.0/24

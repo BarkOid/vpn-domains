@@ -42,6 +42,35 @@ medium.com
 # RuTracker
 rutracker.org
 
+# Adult sites
+pornhub.com
+pornhubpremium.com
+phncdn.com
+phprcdn.com
+redtube.com
+rdtcdn.com
+youporn.com
+ypncdn.com
+tube8.com
+thumbzilla.com
+xvideos.com
+xvideos-cdn.com
+xnxx.com
+xnxx-cdn.com
+xhamster.com
+xhamster.desi
+xhamster.xxx
+spankbang.com
+sb-cd.com
+chaturbate.com
+stripchat.com
+livejasmin.com
+bongacams.com
+camsoda.com
+onlyfans.com
+fansly.com
+brazzers.com
+
 # Telegram domains
 telegram.org
 t.me

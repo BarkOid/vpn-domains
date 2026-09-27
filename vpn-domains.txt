@@ -12,6 +12,10 @@ oaiusercontent.com
 claude.ai
 anthropic.com
 
+# xAI / Grok
+grok.com
+x.ai
+
 # YouTube
 youtube.com
 youtu.be

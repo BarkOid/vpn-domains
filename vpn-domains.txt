@@ -85,11 +85,7 @@ fansly.com
 brazzers.com
 
 # Telegram domains
-# Keep api.telegram.org out of the VPN route so Home Assistant Bot API uses WAN directly.
-www.telegram.org
-web.telegram.org
-desktop.telegram.org
-core.telegram.org
+telegram.org
 t.me
 telegram.me
 telegram.dog
@@ -101,19 +97,7 @@ telegra.ph
 91.108.8.0/22
 91.108.16.0/22
 91.108.12.0/22
-# 149.154.160.0/20 split to exclude api.telegram.org current IPv4 149.154.166.110/32
-149.154.160.0/22
-149.154.164.0/23
-149.154.166.0/26
-149.154.166.64/27
-149.154.166.96/29
-149.154.166.104/30
-149.154.166.108/31
-149.154.166.111/32
-149.154.166.112/28
-149.154.166.128/25
-149.154.167.0/24
-149.154.168.0/21
+149.154.160.0/20
 91.105.192.0/23
 91.108.20.0/22
 185.76.151.0/24

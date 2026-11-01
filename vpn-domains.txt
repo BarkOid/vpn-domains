@@ -18,6 +18,12 @@ x.ai
 grokusercontent.com
 grok-sandbox.com
 
+# GitHub
+github.com
+githubusercontent.com
+githubassets.com
+github.githubassets.com
+
 # YouTube
 youtube.com
 youtu.be

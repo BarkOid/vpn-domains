@@ -24,6 +24,11 @@ githubusercontent.com
 githubassets.com
 github.githubassets.com
 
+# WhatsApp
+whatsapp.com
+whatsapp.net
+wa.me
+
 # YouTube
 youtube.com
 youtu.be
